@@ -1,8 +1,8 @@
-<h1 align="center">Spug</h1>
+<h1 align="center">Corejj</h1>
 
 <div align="center">
 
-Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
+Corejj是面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
 
 </div>
 
@@ -110,7 +110,7 @@ Spug是面向中小型企业设计的轻量级无Agent的自动化运维平台�
 </table>
 
 ## 开发者群
-#### 关注Spug运维公众号加微信群、QQ群、获取最新产品动态
+#### 关注Corejj运维公众号加微信群、QQ群、获取最新产品动态
 <div >
    <img src="https://cdn.corejj.cc/img/corejj-club.jpg" width = "300" height = "300" alt="corejj-qq" align=center />
 <div>
